@@ -1,0 +1,70 @@
+body {
+    font-size: 10pt;
+}
+
+
+.block {
+    background-color: #191724;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.memory {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.disks {
+    background-color: 
+    margin: 30px;
+    display: grid;
+    grid: auto-flow / auto-flow;
+}
+
+.disk-info {
+    display: flex;
+    align-items: center;
+
+}
+
+.ram {
+    color: #ebbcba;
+}
+
+.swap {
+    color: #9ccfd8;
+}
+
+.value {
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #26233a;
+    margin: 10px;
+}
+
+.items {
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    padding: 0px;
+    background-color: #6e6a86;
+    margin: 20px;
+}
+
+.disk {
+    color: #c4a7e7;
+}
+
+.disk-fs {
+    color: #191724;
+    background-color: #ebbcba;
+}
+
+.disk-name {
+    
+}
